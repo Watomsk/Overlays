@@ -5,7 +5,10 @@ These are some really simple overlays I've made for RetroArch. These include a v
 There are more overlays than the ones shown here. The zip files contain a black and dark gray variant of each overlay, as well as alternative designs for some of them.
 
 Notes:
-* For the GBA overlays use Integer Scale by opening Retroarch in game and going to Settings > Video > Scaling, and turning ON the Integer Scale option. You will also need to adjust the Viewport Anchor Bias Y to 0.05 value.
+* For the GBA overlays use Integer Scale by opening Retroarch in game and going to Settings > Video > Scaling, and turning ON the Integer Scale option. Ensure that Aspect Ratio is Core Provided. Viewport Anchor Bias X should be 0.50, while Viewport Anchor Bias Y should be 0.00.
+
+Changelog:
+6/8 - Fixed issue with GBA overlays.
 
 
 ## Game Boy DMG
